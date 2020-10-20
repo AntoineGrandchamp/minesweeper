@@ -22,7 +22,7 @@ You can also see the currently built app at: http://apps.neallub.in/minesweeper/
 You can change the amount of columns, rows, and bombs by passing `rows`, `columns`,  and `bombs` props to the `Board` component.
 Defaults to 10 of each.
 
---------------
+--------------hihi
 
 Example end of game view:
 ![](https://i.imgur.com/grCjPOi.png)
