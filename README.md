@@ -15,7 +15,7 @@ To run app locally please run:
 ```
 
 You can also see the currently built app at: http://apps.neallub.in/minesweeper/docs/
-
+ok
 
 --------------
 
